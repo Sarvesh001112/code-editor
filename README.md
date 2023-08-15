@@ -1,3 +1,1 @@
-# CodeBee - Online Code Editor
-
-Developed by Balaharisankar using ReactJs
+# Online Code Editor using ReactJs
